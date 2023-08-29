@@ -1,0 +1,18 @@
+Immutable Data Types:
+1. str
+2. int
+3. float
+4. bool
+5. tuple
+6. frozenset
+7. bytes
+8. complex
+9. NoneType
+10. Unicode
+
+Mutable Data Types:
+1. list
+2. dict
+3. set
+4. bytearray
+5. user-defined classes (objects)
