@@ -15,4 +15,4 @@ Mutable Data Types:
 2. dict
 3. set
 4. bytearray
-5. user-defined classes (objects)
+5. objects
